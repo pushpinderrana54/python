@@ -1,0 +1,43 @@
+Starter In  Data Science
+
+1  Complete Machine Learning Playlist:(Top 24 videos)
+
+https://www.youtube.com/playlist?list...​
+
+2  Statistics in Machine Learning:(Understand some Concepts With Respect To Data)- Complete Playlist
+https://www.youtube.com/playlist?list...​
+
+3. Feature Engineering(Complete Playlist)
+https://www.youtube.com/playlist?list...​
+
+4. Continue The Complete Machine Learning Playlist(24-all the videos)
+
+5. Live Stream Playlist:(Top 10 videos)
+https://www.youtube.com/playlist?list...​
+
+6. Machine Learning Pipelines
+
+https://www.youtube.com/playlist?list...​
+
+7. Complete Deep Learning Playlist:
+Tensorflow And Keras-https://www.youtube.com/playlist?list...​
+
+Pytorch: https://www.youtube.com/playlist?list...​
+
+8.  Live Projects Playlist:
+https://www.youtube.com/playlist?list...​
+
+9. Deployment Playlist:(Azure,Google Cloud,EC2.Heroku)
+https://www.youtube.com/playlist?list...​
+
+10. Docker Playlist: 
+https://www.youtube.com/playlist?list...​
+
+11. Tableau:
+
+https://www.youtube.com/playlist?list...​
+
+12. PowerBI 
+
+https://www.youtube.com/playlist?list...​
+
